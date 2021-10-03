@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a current Stanford student interested in startups and civilizational inadequacies. My technical interests are in machine learning, [AI safety](https://intelligence.org/why-ai-safety/), and computer systems. I have a [blog](https://kliu.io).
+I'm a current Stanford student interested in startups and civilizational inadequacies. My technical interests are in machine learning, [ML safety](https://arxiv.org/pdf/2109.13916.pdf), and computer systems. I have a [blog](https://kliu.io).
 
 You may want to see my:
 
