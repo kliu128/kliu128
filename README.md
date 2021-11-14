@@ -1,8 +1,8 @@
 # Hi!
 
-I'm a current Stanford student with an interest in entrepreneurship, trustworthy AI, and systems engineering. My technical interests are in machine learning, [ML safety](https://arxiv.org/pdf/2109.13916.pdf), and computer systems. I have a [blog](https://kliu.io).
+I'm a current Stanford student with an interest in entrepreneurship, trustworthy AI, and systems engineering. I have a [blog](https://kliu.io).
 
-You may want to see my:
+You may be interested in my:
 
 - [Projects](https://kliu.io/projects/)
 - [Recent blog posts](https://kliu.io/)
